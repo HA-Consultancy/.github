@@ -87,7 +87,7 @@ Stack:
 <a href="https://www.linkedin.com/in/basheer-alhamwi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
 <br/><br/><b>Basheer ALhamwi</b>
 <br/><sub>Co-Founder & CEO · Digital Transformation Consultant</sub>
-<br/><sub><code>Strategy</code> <code>Business Development</code> <code>Client Relations</code></sub>
+<br/><sub><code>Strategy</code> <code>Business Development</code> <code>Client Relations</code><code>Dynamics 365</code> <code>Fieldiu</code> <code>Power Platform</code> <code>Dataverse</code><code>Business Central</code></sub>
 </td>
 <td align="center">
 <a href="https://github.com/aboodh95"><img src="https://github.com/aboodh95.png" width="90" height="90"/></a>
