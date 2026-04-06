@@ -77,23 +77,6 @@ Stack:
 
 ---
 
-## 🏢 Client Portfolio
-
-<div align="center">
-
-| Client | Domain | Stack |
-|:---:|:---:|:---:|
-| **ProShield** | Field Service & Pest Control | Resco · Fieldiu · Dataverse |
-| **Falcon Eye Drones (FEDS)** | Drone IT & Electricity Monitoring | React · Custom Portal |
-| **Quadri** | CRM & Operations | Dynamics 365 CRM |
-| **ADAFSA** | Government / Regulatory | Power Platform |
-| **ETS** | Finance & ERP | Business Central |
-| **Amsy Classic** | CRM Operations | Dynamics 365 |
-
-</div>
-
----
-
 ## 👥 The Team
 
 <div align="center">
