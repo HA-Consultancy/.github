@@ -77,7 +77,7 @@ Stack:
 
 ---
 
-## 👥 The Team
+## 👥 The Dev Team
 
 <div align="center">
 
